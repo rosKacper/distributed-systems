@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/distributed-systems.iml" filepath="$PROJECT_DIR$/.idea/distributed-systems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1_chat_TCP/lab1_chat_TCP.iml" filepath="$PROJECT_DIR$/lab1_chat_TCP/lab1_chat_TCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2_rabbitmq/lab2_rabbitmq.iml" filepath="$PROJECT_DIR$/lab2_rabbitmq/lab2_rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3_zookeper/lab3_zookeper.iml" filepath="$PROJECT_DIR$/lab3_zookeper/lab3_zookeper.iml" />
+    </modules>
+  </component>
+</project>
