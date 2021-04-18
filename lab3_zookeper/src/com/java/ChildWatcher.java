@@ -36,7 +36,7 @@ public class ChildWatcher implements Watcher {
         }
         if (watchedEvent.getType().equals(NodeChildrenChanged)) {
             try {
-                System.out.println("Number of children nodes: " + zk.getAllChildrenNumber(zNode));// + executor.getChildrenCount(znode, zk));
+                System.out.println("Number of children nodes: " + zk.getAllChildrenNumber(zNode));
             } catch (KeeperException | InterruptedException e) {
                 e.printStackTrace();
             }
